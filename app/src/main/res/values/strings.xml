@@ -2,5 +2,7 @@
     <string name="app_name">newproject</string>
     <string name="todo">TODO</string>
     <string name="welcome_to_win_it">welcome to win.it</string>
-    <string name="go">go</string>
+    <string name="go_button">go</string>
+    <string name="homebut">home</string>
+
 </resources>
