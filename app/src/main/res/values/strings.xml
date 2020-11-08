@@ -6,7 +6,6 @@
     <string name="Faq">faqs</string>
     <string name="calender">calendar</string>
     <string name="go_btn">go</string>
-    <string name="imagebtn">TODO</string>
-
+    <string name="image_btn">image share</string>
 
 </resources>
