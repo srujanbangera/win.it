@@ -31,12 +31,12 @@
         android:contentDescription="@string/todo" />
 
     <Button
-        android:id="@+id/gobutton"
+        android:id="@+id/gobtn"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="@string/go_button"
-        android:textAllCaps="false"
+        android:text="@string/go_btn"
         android:textColor="#009688"
+        android:textSize="24sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.498"
